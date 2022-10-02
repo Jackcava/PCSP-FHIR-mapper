@@ -1,0 +1,26 @@
+{
+  "resourceType": "Patient",
+  "meta": {
+    "profile": [
+      "http://hl7.eu/fhir/ig/pcsp/StructureDefinition/Patient-eu-pcsp"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://hl7.eu/fhir/ig/pcsp/sid/pat-id-cineca",
+      "value": "000025240"
+    }
+  ],
+  "active": true,
+  "name": [
+    {
+      "use": "official",
+      "family": "WYXXJXXX",
+      "given": [
+        "YYWX"
+      ]
+    }
+  ],
+  "gender": "female",
+  "birthDate": "2010-07-01"
+}

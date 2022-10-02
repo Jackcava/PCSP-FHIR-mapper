@@ -1,0 +1,32 @@
+ID_PAZIENTE,DT_REGISTRAZIONE,DESCR_DIAGNOSI,TITOLO_LIV2,CODICE_LIV2,DESC_LIV2
+2014000777,2014-08-10 00:00:00.000,ossa,Istologia,,Sarcoma di Ewing/Tumore primitivo neuroectodermico PNET
+2014000777,2015-10-06 00:00:00.000,Sarcoma di Ewing,Testo libero,,Recidiva metastatica a 5 mesi dallo stop terapia
+2014000777,2014-08-10 00:00:00.000,ossa,Sottosede,C41.2,Colonna vertebrale
+2014000777,2014-08-10 00:00:00.000,ossa,Stadio,Stadio IVB,
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Invasione ossea,No,
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Stadio,Stadio IIa,
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Residuo post chirurgico,R1,(microscopicamente non radicale)
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Margini resezione chirurgica,Negativi,
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",M,M0,Metastasi a distanza assenti
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",N,N0,Linfonodi regionali liberi da metastasi
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Istologia,,altro
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Grading,G3 secondo FNCLCC,Poco differenziato o indifferenziato
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",T,cT1b,"Tumore <= 5 cm profondo (al di sotto o con invasione della fascia superficiale o tumori retroperitoneali, mediastinici, pelvici)"
+2015005679,2015-09-16 00:00:00.000,"Tumori maligni dei tessuti molli, NAS",Sottosede,C49.0,"Tessuto connettivo, sottocutaneo, e altre parti molli della testa, faccia e collo"
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,Istologia,,Rabdomiosarcoma alveolare
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,Invasione ossea,Si,
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,M,M1,Metastasi a distanza presenti (compresi linfonodi a distanza)
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,N,N1,Metastasi nei linfonodi regionali
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,Stadio,Stadio IV,
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,Marcatori,,LDH 1000
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,Sottosede,C49.5,"Tessuto connettivo, sottocutaneo e altre parti molli della pelvi"
+2010003039,2018-12-01 00:00:00.000,Rabdomiosarcoma,T,pT2b,"Tumore > 5 cm profondo (al di sotto o con invasione della fascia superficiale o tumori retroperitoneali, mediastinici, pelvici)"
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Testo libero,,"RMS prostatico con esteso coinvolgimento vescicale,intervento iniziale (biopsia allargata) in Albania con ureterostomia sn"
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,T,pT2b,"Tumore > 5 cm profondo (al di sotto o con invasione della fascia superficiale o tumori retroperitoneali, mediastinici, pelvici)"
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Residuo post chirurgico,R2,(macroscopicamente non radicale)
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Sottosede,C49.5,"Tessuto connettivo, sottocutaneo e altre parti molli della pelvi"
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Invasione ossea,No,
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,M,M0,Metastasi a distanza assenti
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Stadio,Stadio III,
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,N,N1,Metastasi nei linfonodi regionali
+2018008828,2018-12-27 00:00:00.000,Rabdomiosarcoma,Istologia,,Rabdomiosarcoma embrionale

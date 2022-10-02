@@ -1,0 +1,36 @@
+{
+  "resourceType": "Patient",
+  "meta": {
+    "profile": [
+      "http://hl7.eu/fhir/ig/pcsp/StructureDefinition/Patient-eu-pcsp"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://hl7.eu/fhir/ig/pcsp/sid/pat-id-cineca",
+      "value": "2014000777"
+    }
+  ],
+  "active": true,
+  "name": [
+    {
+      "use": "official",
+      "family": "WYXXJXXX",
+      "given": [
+        "YYWX"
+      ]
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "1111.0"
+    },
+    {
+      "system": "email",
+      "value": "x1@gmail.com"
+    }
+  ],
+  "gender": "female",
+  "birthDate": "2010-07-01"
+}
