@@ -53,7 +53,7 @@ print()
 
 if extraction == 1:
     dsn_tns = cx_Oracle.makedsn('orarac-scan.gaslini.lan', '1521', service_name='GEST') # if needed, place an 'r' before any parameter in order to address special characters such as '\'.
-    conn = cx_Oracle.connect(user=r'PANCARESURPASS', password='PicrgG=31!', dsn=dsn_tns) # if needed, place an 'r' before any parameter in order to address special characters such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
+    conn = cx_Oracle.connect(user=r'username', password='password', dsn=dsn_tns) # if needed, place an 'r' before any parameter in order to address special characters such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
     c = conn.cursor()
 
 elif extraction == 2:
